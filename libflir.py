@@ -47,10 +47,10 @@ class FLIR_Functions():
 			    commands_struct._frame['byte_count'] + commands_struct._frame['crc1'] + \
 			    commands_struct._frame['data']
 
-		#print "bytes_1toN: \n"
-		#for i in commands_struct._frame:
-		#	print i + " : " + commands_struct._frame[i].encode('hex')
-		#print "\n"
+		print "bytes_1toN: \n"
+		for i in commands_struct._frame:
+			print i + " : " + commands_struct._frame[i].encode('hex')
+		print "\n"
 
 		# calculate crc2
 		_crc2 = crc16.crc16xmodem(bytes_1toN)
