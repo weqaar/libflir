@@ -1,4 +1,4 @@
-# Weqaar A. Janjua <weqaar.janjua@sensorflock.com>, 25 FEB 2014
+# Weqaar A. Janjua <weqaar.janjua@gmail.com>, 25 FEB 2014
 # 
 # Structures for Frame and Command Definitions
 
