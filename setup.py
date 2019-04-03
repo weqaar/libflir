@@ -1,9 +1,13 @@
-from distutils.core import setup
+#from distutils.core import setup
+from setuptools import setup
+
 setup(
   name = 'libFLIR',
   packages = ['libFLIR'],
-  version = '1.4',
+  version = '1.4.1',
   description = 'FLIR TAU Control Library',
+  long_description='FLIR TAU Control Library',
+  long_description_content_type="text/markdown",
   author = 'Weqaar Janjua',
   author_email = 'weqaar.janjua@gmail.com',
   url = 'https://github.com/weqaar/libflir',

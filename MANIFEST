@@ -3,6 +3,7 @@ LICENSE.txt
 requirements.txt
 setup.cfg
 setup.py
+libFLIR/__init__.py
 libFLIR/commands_struct_FLIR.py
 libFLIR/configInit.py
 libFLIR/libflir.py

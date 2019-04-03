@@ -1,0 +1,15 @@
+LICENSE.txt
+MANIFEST.in
+requirements.txt
+setup.cfg
+setup.py
+libFLIR/__init__.py
+libFLIR/commands_struct_FLIR.py
+libFLIR/configInit.py
+libFLIR/libflir.py
+libFLIR/serial_FLIR.py
+libFLIR.egg-info/PKG-INFO
+libFLIR.egg-info/SOURCES.txt
+libFLIR.egg-info/dependency_links.txt
+libFLIR.egg-info/requires.txt
+libFLIR.egg-info/top_level.txt

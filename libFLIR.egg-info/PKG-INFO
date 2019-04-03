@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: libFLIR
+Version: 1.4.1
+Summary: FLIR TAU Control Library
+Home-page: https://github.com/weqaar/libflir
+Author: Weqaar Janjua
+Author-email: weqaar.janjua@gmail.com
+License: UNKNOWN
+Download-URL: https://github.com/weqaar/libflir/tarball/0.1
+Description: FLIR TAU Control Library
+Keywords: libflir,thermal,flir
+Platform: UNKNOWN
