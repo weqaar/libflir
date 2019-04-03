@@ -1,6 +1,7 @@
 Python API for FLIR Thermal Camera Cores
 
 Author: Weqaar Janjua <weqaar.janjua@gmail.com>
+
 Version: 1.4
 
 libFLIR is the opensource FLIR API written in Python.
